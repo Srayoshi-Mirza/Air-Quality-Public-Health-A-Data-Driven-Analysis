@@ -182,4 +182,4 @@ This project covers a wide range of **data analysis techniques** from basic stat
 ## **Contributors**
 
 - [Srayoshi Bashed Mirza](https://github.com/Srayoshi-Mirza)
-- [Nourin Nusrat Ishar](https://github.com/NN-KHAN)
+- [Nourin Nusrat Isha](https://github.com/NN-KHAN)
