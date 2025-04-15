@@ -163,7 +163,7 @@ This project covers a wide range of **data analysis techniques** from basic stat
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/air-quality-public-health-analysis.git
+    git clone https://github.com/Srayoshi-Mirza/Air-Quality-Public-Health-A-Data-Driven-Analysis.git
     cd air-quality-public-health-analysis
     ```
 
